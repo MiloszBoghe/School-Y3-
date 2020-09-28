@@ -1,0 +1,9 @@
+Angular install:
+npm install -g @angular/cli
+
+nieuw angular project:
+ng new (projectnaam)
+
+nieuw angular component:
+ng generate component (componentnaam)
+
