@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameParserLib", "Benchmarking\NameParserLib.csproj", "{137CB4D9-B918-49EB-A85F-7ECF96AAB31C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameParserLib.Benchmarks", "NameParser.Benchmarks\NameParserLib.Benchmarks.csproj", "{CA1B5C8F-6C9C-471D-B0BE-9A6FDC402F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137CB4D9-B918-49EB-A85F-7ECF96AAB31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137CB4D9-B918-49EB-A85F-7ECF96AAB31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137CB4D9-B918-49EB-A85F-7ECF96AAB31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137CB4D9-B918-49EB-A85F-7ECF96AAB31C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1B5C8F-6C9C-471D-B0BE-9A6FDC402F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1B5C8F-6C9C-471D-B0BE-9A6FDC402F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1B5C8F-6C9C-471D-B0BE-9A6FDC402F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1B5C8F-6C9C-471D-B0BE-9A6FDC402F05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAEB8E68-258B-4CFF-8BA8-9775A09434AA}
+	EndGlobalSection
+EndGlobal
