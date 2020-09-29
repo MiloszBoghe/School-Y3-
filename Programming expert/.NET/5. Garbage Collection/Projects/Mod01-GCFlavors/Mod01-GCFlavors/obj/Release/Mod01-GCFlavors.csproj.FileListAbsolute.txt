@@ -1,0 +1,6 @@
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCFlavors\Mod01-GCFlavors\bin\Release\Mod01-GCFlavors.exe.config
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCFlavors\Mod01-GCFlavors\bin\Release\Mod01-GCFlavors.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCFlavors\Mod01-GCFlavors\bin\Release\Mod01-GCFlavors.pdb
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCFlavors\Mod01-GCFlavors\obj\Release\Mod01-GCFlavors.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCFlavors\Mod01-GCFlavors\obj\Release\Mod01-GCFlavors.exe
+C:\Users\Kris\Dropbox\bitbucket\progrexpnet\chapter5\Mod01-GCFlavors\Mod01-GCFlavors\obj\Release\Mod01-GCFlavors.pdb
