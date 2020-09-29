@@ -1,0 +1,16 @@
+<p>
+  Het oranje vlak bevat de component app-parent. Deze component bevat een property "quotes"
+  welke een array met bekende quotes bevat. Deze worden doorgegeven naar de verschillende childcomponents.
+  De childcomponents worden weergegeven in het rood.
+</p>
+
+<!-- 
+  klikKnop is de eventEmitter in de app-child
+  inputTest is een (input)propperty in de app-child 
+-->
+
+<app-child [inputTest]="quotes[0]" (klikKnop)="vangOp($event)"></app-child>
+
+<app-child [inputTest]="quotes[1]" (klikKnop)="vangOp($event)"></app-child>
+
+<app-child [inputTest]="quotes[2]" (klikKnop)="vangOp($event)"></app-child>

@@ -1,0 +1,31 @@
+<!--
+Model  driven form (Reactive forms)
+===================================================================
+Let op: ReactiveFormsModule importeren in app.module.ts (zie slides)
+
+Standaard wordt er Angular validatie gebruikt. Wil je gebruik maken
+van HTML5 validatie kan je volgende voorzien:
+<form ... ngNativeValidate > .... </form>
+
+[formGroup]="myForm" zorgt voor de koppeling tussen de myForm FormGroup
+in de modelform.component.ts file.
+
+formControlName="first" linkt het input veld met zijn waarde aan de
+FormControl met als naam 'first' in de FormGroup in de 
+modelform.component.ts file.
+
+(click) koppelt een event aan een methode in de component klasse.
+
+Een ander voorbeeld van de implementatie van model driven forms is
+terug te vinden in de labs.
+-->
+<form [formGroup]="myForm">
+First name: <input type="text" formControlName="first"> <br/>
+Last name: <input type="text" formControlName="last"> <br/>
+Email: <input formControlName="email"> <br/>
+<div formGroupName="address">
+Address: <input formControlName="street"> <br/>
+City: <input formControlName="city"> <br/>
+</div>
+<input type="button" value="Submit" (click)=onSubmit() [disabled]="!myForm.valid" />
+</form>

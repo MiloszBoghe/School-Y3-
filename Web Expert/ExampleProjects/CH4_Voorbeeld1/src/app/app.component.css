@@ -1,0 +1,19 @@
+.form{
+    padding: 20px;
+    width: 75%;
+    margin: 0 auto;
+    background-color: #7FB069;
+    border-radius: 4px;
+}
+
+.form input, label, button {
+    display: inline-block;
+    width: 150px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.highlight{
+    font-weight: 900;
+    color: red;
+}

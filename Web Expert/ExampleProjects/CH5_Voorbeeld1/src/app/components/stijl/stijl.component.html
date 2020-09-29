@@ -1,0 +1,12 @@
+<p>
+  De stijl component toont de werking van de ngClass en ngStyle directives.
+</p>
+
+<input type="checkbox" name="heeftRand" [(ngModel)]="heeftRand" id="heeftrand"/> Rand
+<input type="checkbox" name="isVet" [(ngModel)]="isVet" id="isVet"/> Vetgedrukt
+<input type="checkbox" name="isRood" [(ngModel)]="isRood" id="isRood"/> Rood 
+
+<p [ngClass]="{rand: heeftRand, vet: isVet, rood: isRood}">Ik ben een testparagraaf. Vink bovenstaande checkboxen aan/uit.</p>
+<hr/>
+<p [ngStyle]="randomStijl()">Ik been paragraaf die een random stijl krijgt vanuit de component klasse bij het "refreshen"
+   (de randomstijl wordt ook opgeroepen bij het uitvoeren van de gekoppelde DOM events) van de pagina.</p>

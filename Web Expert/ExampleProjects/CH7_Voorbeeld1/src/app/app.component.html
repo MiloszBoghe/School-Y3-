@@ -1,0 +1,25 @@
+<app-header></app-header>
+<p>
+  Onderstaand formulier wordt gebruikt om een course aan te maken. Bij het aanmaken komt dit automatisch bij in onderstaande lijst
+</p>
+<app-new-course (insertCourse)="refreshList()"></app-new-course>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Speaker</th>
+        <th>Location</th>
+        <th>Level</th>
+        <th>Update</th>
+    </tr>
+
+    <tr *ngFor="let course of courses; let i=index">
+      <td>{{course.name}}</td>
+      <td>{{course.speaker}}</td>
+      <td>{{course.location}}</td>
+      <td>{{course.level}}</td>
+      <td><button (click)="triggerUpdate(i)">Update</button></td>
+    </tr>
+  </table>
+
+  <app-update-course *ngIf="isUpdating" [course]="updatingCourse" (updateCourse)="finishUpdate($event)"></app-update-course>

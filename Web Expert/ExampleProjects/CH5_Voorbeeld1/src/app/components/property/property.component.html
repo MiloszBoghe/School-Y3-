@@ -1,0 +1,21 @@
+<p>
+  De PropertyComponent toont je de werking van property bindings in Angular. Elk DOM attribuut van een element kan
+  op een dynamische manier aan methodes/properties uit de component klasse gekoppeld worden.
+</p>
+<div class="container">
+  <label for="toon"><input type="checkbox" name="toon" id="toon" [(ngModel)]="toon"> Toon Dagmenu</label>
+
+  <div class="dagmenu" [style.display]="isChecked()" [style.backgroundColor]="bgcolor">
+    <p>
+      Thai massaman curry<br />
+      Kip & scampi's<br />
+      Sticky rice & kroepoek<br />
+    </p>
+
+    <img [src]='getAfbeelding()' alt='dagmenu' />
+    <button (click)="roteer()">volgende foto</button>
+  </div>
+
+  <label for="bgcolor">Geef een achtergrondkleur:</label><input type="text" name="bgcolor" id="bgcolor" [(ngModel)]="bgcolor"
+    placeholder="#FFFFFF" />
+</div>
