@@ -1,0 +1,19 @@
+<form [formGroup]="courseForm" (ngSubmit)="onSubmit()">
+  <label>
+      Name:
+      <input type="text" formControlName="name"/>
+  </label>
+  <label>
+      Speaker:
+      <input type="text" formControlName="speaker"/>
+  </label>
+  <label>
+      Location:
+      <input type="text" formControlName="location"/>
+  </label>
+  <label>
+      Level:
+      <input type="number" formControlName="level"/>
+  </label>
+  <input type="submit" name="submit" value="submit" [disabled]="!courseForm.valid" />
+</form>

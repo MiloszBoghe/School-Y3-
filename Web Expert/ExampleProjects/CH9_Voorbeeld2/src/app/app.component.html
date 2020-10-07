@@ -1,0 +1,15 @@
+<app-header></app-header>
+<ul>
+  <li><a [routerLink]="['/page1']" routerLinkActive="active">Page 1</a></li>
+  <li><a [routerLink]="['/page2']" routerLinkActive="active">Page 2</a></li>
+  <li><a [routerLink]="['/page2/sub1']" routerLinkActive="active">Page 2-sub1 (sub routes)</a></li>
+  <li><a [routerLink]="['/page3/','hallowereld']" routerLinkActive="active">Page 3 (params)</a></li>
+  <li><a [routerLink]="['/page4']" routerLinkActive="active">Page 4 (activator)</a></li>
+  <li><a [routerLink]="['/page5',123,456]" routerLinkActive="active">Page 5 (deactivator, multiple params)</a></li>
+  <li><a [routerLink]="['/login']" routerLinkActive="active">Login</a></li>
+</ul>
+<p>
+Logged in: {{ authService.isLoggedIn() }} 
+</p>
+
+<router-outlet></router-outlet>

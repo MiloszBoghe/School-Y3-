@@ -1,0 +1,45 @@
+<!--
+Template driven form
+===================================================================
+Let op: FormsModule importeren in app.module.ts (zie slides)
+
+Standaard wordt er Angular validatie gebruikt. Wil je gebruik maken
+van HTML5 validatie kan je volgende voorzien:
+<form ... ngNativeValidate > .... </form>
+
+#mijnForm zorgt voor een referentie van het Angular form object.
+ Dit bevat:
+- De values van de inpult velden die gekoppeld zijn op basis van het
+  name attribuut
+- Informatie over de validatie & status van het formulier (zie paragraph
+  onder het formulier)
+
+(ngSubmit) koppelt de submit event van het formulier aan een methode in
+de component klasse.
+
+Een ander voorbeeld van de implementatie van template driven forms is
+terug te vinden in de labs.
+-->
+<form #mijnForm="ngForm" (ngSubmit)="onSubmit(mijnForm)">
+  Name:<br/>
+  <input type="text" name="nameAttr" [(ngModel)]="name" required #firstname="ngModel"/> <br/> 
+  Email: <br/>
+  <input type="email" name="emailAttr" [(ngModel)]="email" required pattern="^.+@.+\..+" #emailadd="ngModel" /><br/>
+  <button type="submit" [disabled]="!mijnForm.form.valid">Submit</button>
+</form>
+
+<p>
+  Form valid: {{mijnForm.form.valid}} <br/>
+  Form touched: {{mijnForm.form.touched}}
+</p>
+
+<p>
+  Name veld valid: {{firstname.valid}} <br/>
+  Name veld touched: {{firstname.touched}} <br/>
+  Name veld dirty: {{firstname.dirty}}
+</p>
+
+<p>
+  Email veld valid: {{emailadd.valid}} <br/>
+  Email veld touched: {{emailadd.touched}} <br/>
+</p>

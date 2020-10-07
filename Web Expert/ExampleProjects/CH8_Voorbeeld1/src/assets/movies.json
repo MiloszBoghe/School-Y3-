@@ -1,0 +1,33 @@
+[
+        {
+            "title": "It",
+            "rating": 5,
+            "isReleased": true
+        },
+        {
+            "title": "Pitch perfect 3",
+            "rating": 7,
+            "isReleased": true
+        },
+        {
+            "title": "Star wars: The last jedi",
+            "rating": 8,
+            "isReleased": true  
+        },
+        {
+            "title": "Aquaman",
+            "rating": 0,
+            "isReleased": false
+        },
+        {
+            "title": "Mary Poppings returns",
+            "rating": 0,
+            "isReleased": false
+        },
+        {
+            "title": "Camptain Marvel",
+            "rating": 0,
+            "isReleased": false
+        }
+
+]

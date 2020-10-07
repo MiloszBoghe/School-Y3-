@@ -1,0 +1,18 @@
+<app-header></app-header>
+<section class="form">
+   <p>De app component bevat in het groene gedeelte een fomulier waarop 2way input binding & one way binding is toegepast.
+      Op de knop is een event gekoppeld die linkt naar de submit() methode in de component klasse. Ook op het inputveld van de naam is een event gekoppeld.</p>
+  <div>
+    <label for="voornaam">Voornaam:</label>
+    <input type="text" [(ngModel)]="voornaam" id="voornaam" />
+  </div>
+  <div>
+    <label for="achternaam">Naam:</label>
+    <input type="text" [(ngModel)]="achternaam" id="achternaam" (keyup)="onKey($event)" />
+  </div>
+  <button (click)="submit()">Submit</button>
+
+  <p>De value van voornaam is <span class="highlight">{{voornaam}}</span> en de value van achternaam is <span class="highlight">{{achternaam}}</span>.</p>
+</section>
+
+<app-parent> </app-parent>

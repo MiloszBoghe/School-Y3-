@@ -1,0 +1,11 @@
+:host{
+    display: block;
+    background-color: #FC5130;
+    padding: 10px;
+    width: 50%;
+    margin: 5px auto; 
+    border-radius: 4px;
+}
+:host:hover{
+    background-color: rgb(252, 117, 90);
+}
