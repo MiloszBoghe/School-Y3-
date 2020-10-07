@@ -1,1 +1,7 @@
 1. Geef eens een voorbeeld van de voordelen van CLR
+
+2. Wat is een nop instructie?
+Een nop doet niets.
+
+3. Waarom bestaan nop instructies? 
+Elke nop instructie is een plaats waar je een breakpoint zou kunnen zetten.

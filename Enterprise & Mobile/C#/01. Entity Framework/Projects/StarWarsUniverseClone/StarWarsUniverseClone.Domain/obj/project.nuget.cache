@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b3RgtKhRbIAYEAQbQoigprb7G8h05RCJzuU2lOxszqmOej73qa6p0Le0ioTaO3K5BWWcESSBBjTySY9J3ZwbUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\11800460\\Desktop\\School-Y3-\\Enterprise & Mobile\\C#\\01. Entity Framework\\Projects\\StarWarsUniverseClone\\StarWarsUniverseClone.Domain\\StarWarsUniverseClone.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\11800460\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

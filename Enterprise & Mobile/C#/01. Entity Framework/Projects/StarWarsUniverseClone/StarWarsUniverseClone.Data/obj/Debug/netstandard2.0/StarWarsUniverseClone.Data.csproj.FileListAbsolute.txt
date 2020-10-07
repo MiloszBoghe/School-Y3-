@@ -1,0 +1,24 @@
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\bin\Debug\netstandard2.0\StarWarsUniverseClone.Data.deps.json
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\bin\Debug\netstandard2.0\StarWarsUniverseClone.Data.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.AssemblyInfoInputs.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.AssemblyInfo.cs
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\bin\Debug\netstandard2.0\StarWarsUniverseClone.Domain.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\bin\Debug\netstandard2.0\StarWarsUniverseClone.Data.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\bin\Debug\netstandard2.0\StarWarsUniverseClone.Domain.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.csproj.CopyComplete
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\bin\Debug\netstandard2.0\StarWarsUniverseClone.Data.deps.json
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\bin\Debug\netstandard2.0\StarWarsUniverseClone.Data.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\bin\Debug\netstandard2.0\StarWarsUniverseClone.Data.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\bin\Debug\netstandard2.0\StarWarsUniverseClone.Domain.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\bin\Debug\netstandard2.0\StarWarsUniverseClone.Domain.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.AssemblyInfoInputs.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.AssemblyInfo.cs
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.csproj.CopyComplete
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Data\obj\Debug\netstandard2.0\StarWarsUniverseClone.Data.pdb

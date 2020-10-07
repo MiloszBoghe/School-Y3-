@@ -1,0 +1,118 @@
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.exe
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.AssemblyInfoInputs.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.AssemblyInfo.cs
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.deps.json
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.runtimeconfig.json
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.runtimeconfig.dev.json
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.genruntimeconfig.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.csproj.CopyComplete
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.Data.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.Domain.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.Data.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.Domain.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.exe
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.deps.json
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.runtimeconfig.json
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.runtimeconfig.dev.json
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.Data.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.Domain.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.Data.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\bin\Debug\netcoreapp3.1\StarWarsUniverseClone.Domain.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.AssemblyInfoInputs.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.AssemblyInfo.cs
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.csproj.CopyComplete
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.dll
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.pdb
+C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\01. Entity Framework\Projects\StarWarsUniverseClone\StarWarsUniverseClone\obj\Debug\netcoreapp3.1\StarWarsUniverseClone.genruntimeconfig.cache

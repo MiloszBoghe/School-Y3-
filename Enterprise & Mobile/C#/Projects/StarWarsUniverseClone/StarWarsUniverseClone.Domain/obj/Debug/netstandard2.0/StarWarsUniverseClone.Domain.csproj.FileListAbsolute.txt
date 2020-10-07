@@ -1,9 +1,0 @@
-C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Domain\bin\Debug\netstandard2.0\StarWarsUniverseClone.Domain.deps.json
-C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Domain\bin\Debug\netstandard2.0\StarWarsUniverseClone.Domain.dll
-C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Domain\obj\Debug\netstandard2.0\StarWarsUniverseClone.Domain.csprojAssemblyReference.cache
-C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Domain\obj\Debug\netstandard2.0\StarWarsUniverseClone.Domain.AssemblyInfoInputs.cache
-C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Domain\obj\Debug\netstandard2.0\StarWarsUniverseClone.Domain.AssemblyInfo.cs
-C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Domain\bin\Debug\netstandard2.0\StarWarsUniverseClone.Domain.pdb
-C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Domain\obj\Debug\netstandard2.0\StarWarsUniverseClone.Domain.csproj.CoreCompileInputs.cache
-C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Domain\obj\Debug\netstandard2.0\StarWarsUniverseClone.Domain.dll
-C:\Users\11800460\Desktop\School-Y3-\Enterprise & Mobile\C#\Projects\StarWarsUniverseClone\StarWarsUniverseClone.Domain\obj\Debug\netstandard2.0\StarWarsUniverseClone.Domain.pdb

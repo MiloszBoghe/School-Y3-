@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsUniverseClone", "StarWarsUniverseClone\StarWarsUniverseClone.csproj", "{3AE9085D-ECF0-4783-AAE6-84E3D75B4D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsUniverseClone.Domain", "StarWarsUniverseClone.Domain\StarWarsUniverseClone.Domain.csproj", "{1F23B805-879A-49E4-8BEE-34165B01FC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsUniverseClone.Data", "StarWarsUniverseClone.Data\StarWarsUniverseClone.Data.csproj", "{84BCE44F-8CFC-4EB0-B3C3-870DC450F30F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsUniverseClone.Tests", "StarWarsUniverseClone.Tests\StarWarsUniverseClone.Tests.csproj", "{3B79A3C6-D67C-4973-BE26-43E245E79383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE9085D-ECF0-4783-AAE6-84E3D75B4D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE9085D-ECF0-4783-AAE6-84E3D75B4D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE9085D-ECF0-4783-AAE6-84E3D75B4D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE9085D-ECF0-4783-AAE6-84E3D75B4D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F23B805-879A-49E4-8BEE-34165B01FC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F23B805-879A-49E4-8BEE-34165B01FC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F23B805-879A-49E4-8BEE-34165B01FC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F23B805-879A-49E4-8BEE-34165B01FC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BCE44F-8CFC-4EB0-B3C3-870DC450F30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BCE44F-8CFC-4EB0-B3C3-870DC450F30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BCE44F-8CFC-4EB0-B3C3-870DC450F30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BCE44F-8CFC-4EB0-B3C3-870DC450F30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B79A3C6-D67C-4973-BE26-43E245E79383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B79A3C6-D67C-4973-BE26-43E245E79383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B79A3C6-D67C-4973-BE26-43E245E79383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B79A3C6-D67C-4973-BE26-43E245E79383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B41EEF4-766E-4705-8179-A812A7EBCA66}
+	EndGlobalSection
+EndGlobal
