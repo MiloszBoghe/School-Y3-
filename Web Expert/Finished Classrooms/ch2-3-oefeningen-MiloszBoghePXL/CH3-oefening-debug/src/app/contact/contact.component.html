@@ -1,0 +1,7 @@
+<label for="email"></label>
+<input type="text" placeholder="email adres" name="email" id="email" [(ngModel)]="email">
+<label for="bericht"></label>
+<textarea id="bericht" name="bericht" [(ngModel)]="bericht" placeholder="Typ je bericht">
+
+</textarea>
+<button (click)="send()">Verstuur</button>
