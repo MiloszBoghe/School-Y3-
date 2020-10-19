@@ -24,19 +24,30 @@ namespace StarWarsUniverseClone.Data.Repositories.Api
 
         public IList<Planet> GetAllPlanets()
         {
-            //probably not done, theres multiple resultspages.
-            const string url = "/api/films/";
+            var url = "/api/planets/";
             var allPlanets = new List<Planet>();
+
             ResultsPage<Planet> resultsPage = null;
             var response = _httpClient.GetAsync(url).Result;
-            if (!response.IsSuccessStatusCode) return allPlanets;
-
             var content = response.Content.ReadAsStringAsync().Result;
+            content = content.Replace("unknown", "-1");
             resultsPage = JsonConvert.DeserializeObject<ResultsPage<Planet>>(content);
+            url = resultsPage.Next;
             allPlanets = resultsPage.Results;
+
+            while (resultsPage.Next != null)
+            {
+                response = _httpClient.GetAsync(url).Result;
+                content = response.Content.ReadAsStringAsync().Result;
+                content = content.Replace("unknown", "-1");
+                resultsPage = JsonConvert.DeserializeObject<ResultsPage<Planet>>(content);
+                url = resultsPage.Next;
+                allPlanets.AddRange(resultsPage.Results);
+            }
 
             return allPlanets;
         }
+
 
         internal class ResultsPage<T>
         {

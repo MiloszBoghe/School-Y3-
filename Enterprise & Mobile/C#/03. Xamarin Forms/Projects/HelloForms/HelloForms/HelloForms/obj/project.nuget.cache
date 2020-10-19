@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cQ91Exdw0cMwV7NTizcjvIELGtjz2BHQBf6pwhiw8V3r0IrZe5F/qTzwfkcUDupMwU+3DFNFK5LxOGXEKG8g6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\11800460\\Desktop\\School-Y3-\\Enterprise & Mobile\\C#\\03. Xamarin Forms\\Projects\\HelloForms\\HelloForms\\HelloForms\\HelloForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\11800460\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

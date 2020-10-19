@@ -12,8 +12,8 @@ namespace StarWarsUniverseClone
         {
 
             var context = new StarWarsContext();
-            var repo = new MovieDbRepository(context);
-            var movies = repo.GetAllMovies();
+            var movieDbRepository = new MovieDbRepository(context);
+            var movies = movieDbRepository.GetAllMovies();
             Console.WriteLine("=== Star Wars Movies ===");
             var num = 1;
             foreach (var movie in movies)
@@ -22,8 +22,10 @@ namespace StarWarsUniverseClone
                 Console.WriteLine("\tReleased: " + movie.ReleaseDate.ToString("dd/MM/yyyy"));
                 num++;
             }
-
             Console.WriteLine("========================");
+
+            var planetDbRepository = new PlanetDbRepository(context);
+            var planets = planetDbRepository.GetAllPlanets();
         }
 
     }
