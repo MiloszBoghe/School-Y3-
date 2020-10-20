@@ -78,7 +78,6 @@ Test{
 	
 }
 
-
 Databases{
 
 	string connectionString =
@@ -87,7 +86,6 @@ Databases{
 		"Initial Catalog=Payables;" +
 		"Integrated Security=True";
 	return new SqlConnection(connectionString);
-	//
 	
 	// OF (Kies 1)
 	
@@ -101,124 +99,13 @@ Databases{
 
 }
 	
-	
-	
-	Repository{
-	//repository (Dient om gegevens uit de database te halen met query en terug te geven):
-		
-		Get{
-			//
-			public static List<CocktailIngredient> GetCocktailIngredients(int cocktailId)
-			{
-
-				SqlDataReader reader = null;
-				List<CocktailIngredient> cocktailIngredients = new List<CocktailIngredient>();
-				SqlConnection connection = ConnectionFactory.GetConnection();
-
-				string selectStatement =
-					"SELECT ci.CocktailId, ci.IngredientId, i.Name, ci.Quantity, i.unit " +
-					"FROM CocktailIngredients as ci " +
-					"INNER JOIN Ingredients as i " +
-					"ON ci.IngredientId=i.Id " +
-					"WHERE ci.CocktailId = @Cid ";
-
-				SqlCommand command = new SqlCommand();
-				command.Connection = connection;
-				command.Parameters.AddWithValue("@Cid", cocktailId);
-				command.CommandText = selectStatement;
-				
-				//SqlCommand command = new SqlCommand(selectStatement, connection);
-				
-				//2 manieren voor while:
-				/* Ordinal manier: 
-				try
-				{ 
-					connection.Open();
-					reader = command.ExecuteReader();
-
-					int ingredientIdOrdinal = reader.GetOrdinal("IngredientId");
-					int nameOrdinal = reader.GetOrdinal("Name");
-					int quantityOrdinal = reader.GetOrdinal("Quantity");
-					int unitOrdinal = reader.GetOrdinal("Unit");
-
-					while (reader.Read())
-					{
-						CocktailIngredient cocktailIngredient = new CocktailIngredient()
-						{
-							CocktailId = cocktailId,
-							IngredientId = reader.GetInt32(ingredientIdOrdinal),
-							IngredientName = reader.IsDBNull(nameOrdinal) ? null : reader.GetString(nameOrdinal),
-							Quantity = reader.IsDBNull(quantityOrdinal) ? (decimal?)null : reader.GetDecimal(quantityOrdinal),
-							Unit = reader.IsDBNull(unitOrdinal) ? null : reader.GetString(unitOrdinal)
-						};
-						cocktailIngredients.Add(cocktailIngredient);
-					}
-				}
-				*/
-				//geen ordinals manier:
-				try
-				{
-					connection.Open();
-					reader = command.ExecuteReader();
-
-					while (reader.Read())
-					{
-						CocktailIngredient ci = new CocktailIngredient()
-						{
-							CocktailId = cocktailId,
-							IngredientId = Convert.ToInt32(reader["IngredientId"]),
-							IngredientName = Convert.ToString(reader["Name"]),
-							Quantity = reader["Quantity"] == DBNull.Value ? null : (decimal?)reader["Quantity"],
-							Unit = Convert.ToString(reader["Unit"])
-						};
-						cocktailIngredients.Add(ci);
-					}
-				}
-				
-				finally
-				{
-					reader?.Close();
-					connection?.Close();
-				}
-			return cocktailIngredients;
-			}
-		}
-		
-		
-		Add{
-			public void Add(int lotteryGameId, IList<int> numbers)
-			{
-				SqlConnection connection = _connectionFactory.CreateSqlConnection();
-				SqlTransaction lotteryTransaction = connection.BeginTransaction();
-
-				connection.Open();
-				SqlCommand insertDrawCommand = new SqlCommand();
-				insertDrawCommand.Connection = connection;
-				insertDrawCommand.Transaction = lotteryTransaction;
-				lotteryTransaction.Commit();
-				connection.Close();
-			}			
-
-		}
-		
-	}
-
-
-
-
-
-}
-
-
-
-
 EntityFramework{
 	//nieuwe solution? Voeg projecten toe: (
 	//[Naam].Data (CLASS LIBRARY - NET FRAMEWORK)
 	//[Naam].Domain (CLASS LIBRARY - NET FRAMEWORK)
 	//UI (WPF - NET FRAMEWORK)
 	//rightclick .Data-->manage nuGet --> microsoft.entityframeworkcore --> .Sqlserver (VERSIE 2.2.6!!) --> install
-	
+
 	Context{
 		//In de .Data zal moet de context klasse staan. Deze extend "DbContext"
 		//wat doen?
@@ -237,7 +124,6 @@ EntityFramework{
 				
 			}
 		}
-	
 	}
 	
 	
@@ -431,9 +317,6 @@ EntityFramework{
 
 }
 
-
-
-
 Linq{
 	
 	Join{
@@ -459,28 +342,6 @@ Linq{
 		}
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
