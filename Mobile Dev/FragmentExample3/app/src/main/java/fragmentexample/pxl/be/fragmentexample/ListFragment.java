@@ -1,6 +1,6 @@
  // TODO 1. CREATE NEW ACTIVITY AND EXTEND FROM FRAGMENT
 
-package fragmentexample.pxl.be.fragmentexample;
+ package fragmentexample.pxl.be.fragmentexample;
 
 import android.app.Fragment;
 import android.app.FragmentTransaction;
