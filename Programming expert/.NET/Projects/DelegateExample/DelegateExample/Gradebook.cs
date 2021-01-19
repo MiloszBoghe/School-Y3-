@@ -7,7 +7,8 @@ namespace DelegateExample
     public class Gradebook
     {
         private string _name;
-        public NameChangedDelegate NameChanged;
+        private NameChangedEventArgs args;
+        public event NameChangedDelegate NameChanged;
         public Gradebook(string name)
         {
             Name = name;
@@ -19,9 +20,10 @@ namespace DelegateExample
             get => _name;
             set
             {
-                string old = _name;
+                args.oldValue = _name;
+                args.newValue = value;
                 _name = value;
-                NameChanged?.Invoke(old, _name);
+                NameChanged?.Invoke(this, args);
             }
         }
 

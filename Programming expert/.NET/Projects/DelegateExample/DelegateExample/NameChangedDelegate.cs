@@ -4,5 +4,5 @@ using System.Text;
 
 namespace DelegateExample
 {
-    public delegate void NameChangedDelegate(string oldValue, string newValue);
+    public delegate void NameChangedDelegate(object sender, NameChangedEventArgs args);
 }

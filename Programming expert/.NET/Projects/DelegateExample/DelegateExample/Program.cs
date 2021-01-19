@@ -8,16 +8,20 @@ namespace DelegateExample
         static void Main(string[] args)
         {
             Gradebook book = new Gradebook("Punten van Floor");
-            book.NameChanged += OnNameChanged;
-            book.Name = "Punten van Sofie";
-            book.NameChanged += OnNameChanged2;
-            book.Name = "Punten van Lieven";
+            //Delegates
+            //book.NameChanged += OnNameChanged;
+            //book.Name = "Punten van Sofie";
+            //book.NameChanged += OnNameChanged2;
+            //book.Name = "Punten van Lieven";
 
             //var logger = new Logger();
             //var write = new Write(logger.Log);
             //Write write = logger.Log;
             //write += Call;
             //write("test");
+
+            //Event:
+            book.NameChanged += OnNameChanged();
         }
 
         static void OnNameChanged(string oldValue, string newValue)
